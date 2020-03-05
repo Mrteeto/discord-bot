@@ -27,7 +27,7 @@ client.on('guildMemberAdd', member => {
   member.send(
     `Willkommen in der Welt von Euphoria! Die Leute von Euphoria sind sich bewusst das sie von einer höheren Macht gesteuert werden, außer eine bestimmte Gruppe von Menschen erschaffen von den Göttern um sie zu amüsieren. Du bist Teil dieser Gruppe von Leuten, den sogennanten Abenteurern. Also stürze dich in die von den Göttern moderierte Welt Abenteurer auf das deine Reise eine lange sei. `
   )
-})
+});
 
  
 
