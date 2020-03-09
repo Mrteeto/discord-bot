@@ -14,9 +14,9 @@ client.on('ready', () => {
 
 client.on('message', message => {
 
-    if (message.content === 'ping') {
+    if (message.content === '!shop') {
 
-       message.reply('pong');
+       message.reply('https://docs.google.com/document/d/15rNTPaZJzMOcBkEqXXS6ltZmi9XQyC6xrdj3LBbUz0o');
 
        }
 
